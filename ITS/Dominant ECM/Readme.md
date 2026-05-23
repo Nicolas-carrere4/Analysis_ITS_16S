@@ -1,1 +1,4 @@
+Relative abundance of ectomycorrhizal (ECM) fungi was estimated from non-rarefied data by calculating the proportion of reads assigned to ECM taxa within each sample. This approach preserves quantitative information while accounting for differences in sequencing depth through normalization to relative abundance.
+ASVs were assigned to ecological functions using the FungalTraits database based on genus-level taxonomy, and only taxa annotated as ectomycorrhizal were retained. Relative abundances were subsequently aggregated at the genus level to characterize dominant ECM genera across the land-use gradient.
+To improve visualization and interpretability, only the most abundant ECM genera were displayed individually, whereas all remaining genera were grouped into an “Other” category. Mean relative abundances were then calculated for each land-use type and visualized using stacked barplots and heatmaps.
 
