@@ -1,1 +1,5 @@
+Fungal guild abundances were assessed using centered log-ratio (CLR) transformed counts calculated from ASV read counts aggregated at the guild level, in order to account for the compositional nature of sequencing data. Guilds included ectomycorrhizal fungi (ECM), plant pathogens, animal parasites, and saprotrophs, as defined using the FungalTraits database.
+The relationships between environmental variables (temperature, moisture, pH, soil organic matter, and nutrient concentrations) and fungal guild abundances were tested using Spearman rank correlations. Analyses were restricted to soil samples, where environmental measurements were available.
+Spearman correlation coefficients (ρ) were calculated independently for each guild–environment combination to estimate the direction and strength of monotonic associations without assuming normality.
+Significance of correlations was evaluated using two-sided tests, and results were visualized as a heatmap displaying correlation strength and direction, with significance levels indicated for each association.
 
