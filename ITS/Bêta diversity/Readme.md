@@ -1,0 +1,1 @@
+Community composition was assessed using Aitchison distance calculated from CLR-transformed ITS data. Differences in fungal community composition were tested using PERMANOVA with permutations restricted within Tree_ID. Multivariate dispersion was assessed using betadisper to evaluate differences in within-group variability.
