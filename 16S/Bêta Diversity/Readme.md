@@ -1,0 +1,3 @@
+Bacterial beta diversity was assessed using Aitchison distances calculated from CLR-normalized 16S community data. Global differences in bacterial community composition were tested using PERMANOVA models evaluating the effects of compartment, land use, and their interaction. Because multiple compartments were sampled from the same individual tree, permutations were constrained within Tree_ID for global models.
+
+To assess whether land-use effects differed among compartments, separate PERMANOVA models were fitted for leaf, root, and soil bacterial communities, with land use included as the explanatory factor.
