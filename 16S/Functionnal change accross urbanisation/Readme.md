@@ -1,0 +1,5 @@
+Bacterial functional guilds were assigned by matching bacterial genera to a taxon-to-function database compiled from multiple published sources. Functional classifications included nitrogen-cycling guilds (nitrification, denitrification, nitrogen fixation, nitrate and nitrite reduction pathways), cellulolytic and lignolytic taxa, as well as chitinolytic, methanotrophic, and copiotrophic bacteria.
+
+For each functional guild, ASV counts assigned to the focal guild were aggregated and contrasted against the remaining bacterial community. Relative guild abundances were estimated using the centered log-ratio (CLR) framework implemented in ALDEx2. Analyses were performed separately for leaf, root, and soil communities.
+
+The effect of land use on each functional guild was tested using linear mixed-effects models with land use as a fixed effect and neighborhood as a random intercept. Model assumptions were evaluated using DHARMa simulated residual diagnostics. Pairwise differences among land-use categories were assessed using estimated marginal means with Tukey-adjusted multiple comparisons.
